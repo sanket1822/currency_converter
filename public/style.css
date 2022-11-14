@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-color:lightgrey;
+}
+h1{
+    margin: 0;
+    margin-bottom: 5rem;
+}
+
+select{
+    margin-left: .5rem;
+}
+
+.equals{
+    font-weight: bold;
+    font-size: 4rem;
+}
